@@ -56,7 +56,7 @@ List<({String name,int age})> getNewjeansWithType3() {
     (name: '혜린', age: 19),
   ];
 }
-List<({String name,int age})> getGirlGroup(){
-
-}
+// List<({String name,int age})> getGirlGroup(){
+//
+// }
 
